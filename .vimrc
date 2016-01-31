@@ -9,3 +9,5 @@ syntax on
 set hlsearch
 set incsearch
 set ignorecase smartcase
+
+set background=dark
